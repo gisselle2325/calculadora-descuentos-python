@@ -1,4 +1,4 @@
-# --- SISTEMA DE CAJA CON DESCUENTOS ---
+# --- SISTEMA DE CAJA CON DESCUENTOS HOLA MUNDO---
 
 def calcular_descuento():
     print("\n--- NUEVO CÁLCULO ---")
